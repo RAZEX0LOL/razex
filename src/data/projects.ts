@@ -23,10 +23,5 @@ export const projects = [
         stack: "React, Redux Toolkit, Node.js",
         url: "https://wata.pro/",
     },
-    {
-        title: "ООО «Консалтинговая компания Ллойд»",
-        description: "Партнёр в сфере налоговой безопасности, аудита и консалтинга.",
-        stack: "React, Vite",
-        url: "http://www.ллойд.рф",
-    },
+
 ];
